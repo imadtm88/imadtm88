@@ -5,7 +5,7 @@
  <hr/>
 
 <p align="center">
-  [<img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif" width="400">](https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721197464294?e=2147483647&v=beta&t=0lCjairR8V511EyDwjfgNCsL9ILUk6wcgnNsTRKaYkU)
+  <img src="[https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif](https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721197464294?e=2147483647&v=beta&t=0lCjairR8V511EyDwjfgNCsL9ILUk6wcgnNsTRKaYkU)" width="400">
 </p>
 
 
