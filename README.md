@@ -20,9 +20,9 @@
 <div align="center">
  
  
- 🌱 I’m currently learning and always discovering new technologies
+ 🌱 I’m continuously exploring and learning new technologies.
 
- 👩‍💻 Let's chat about software architecture, and the art of clean code
+👨‍💻 I'm always open to discussions about software architecture and the craft of clean, maintainable code.
 
  💬 How to reach me => imadettamen18@gmail.com
 
