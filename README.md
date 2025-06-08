@@ -46,7 +46,7 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,java,cs,typescript,react,flutter,docker,kafka,grafana,git,elasticsearch,graphql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,java,cs,typescript,react,flutter,docker,kubernetes,kafka,grafana,git,elasticsearch,graphql" />
     <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,linux" />
 </div>
 
