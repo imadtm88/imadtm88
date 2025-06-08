@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Imad+Ettamen!;+From+Morocco+🤞" />
+</h1>
 
-<!--
-**imadtm88/imadtm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <hr/>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ <hr/>
+
+<h3 align="center">Software Engineer 🧑‍💻</h3>
+
+<br/>
+
+
+<div align="center">
+ 
+ 
+ 🌱 I’m currently learning and always discovering new technologies
+
+ 👩‍💻 Let's chat about software architecture, and the art of clean code
+
+ 💬 How to reach me => imadettamen18@gmail.com
+
+
+
+ </div>
+
+  <hr/>
+  
+<div align="center"> 
+  <a align="center" href="https://www.linkedin.com/in/imadettamen88/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+
+ 
+
+<h2 align="center"> 💻 Tech Stack </h2>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,express,java,cs,javascript,typescript,react,angular,flutter,docker,kafka,grafana,git" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,linux,rabbitmq" />
+</div>
+
+<br/>
+
+
+
+
+<hr/>
